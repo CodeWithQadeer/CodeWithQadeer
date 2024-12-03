@@ -1,12 +1,45 @@
-👋 Hi, I’m @SyedAbdulQadeer
-👀 I’m interested in AI, machine learning, and full stack development.
-🌱 I’m currently learning Full stack development, Python, machine learning, PyTorch and building object detection models for real-world applications.
-💞️ I’m looking to collaborate on innovative AI-driven projects, such as object detection, machine learning applications, and full-stack development.
-📫 How to reach me via GitHub or [codewithqadeer@gmail.com].
-😄 Pronouns: He/Him
-⚡ Fun fact: I enjoy turning complex problems into elegant code solutions. Also, I love experimenting with new tech frameworks!
+<h1 align="center">Hola! It's Qadeer <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="38px"></h1>  
+<h3 align="center">A passionate developer from India with ❤️ for creating innovative AI and web-based solutions.</h3>  
+<img align="right" src="https://img.etimg.com/thumb/width-450,height-400,imgsize-638053,resizemode-75,msid-84146083/prime/technology-and-startups/booting-up-developer-economy-how-tech-startups-are-helping-coders-build-and-test-software-faster.jpg" alt="developer image"/>
 
-<!---
-CodeWithQadeer/CodeWithQadeer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)  
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=CodeWithQadeer&label=Profile%20views&color=0e75b6&style=flat" alt="CodeWithQadeer" /> </p>  
+
+<p align="left">  
+<a href="https://x.com/SyedAbdQadeer" target="blank"><img src="https://img.shields.io/twitter/follow/CodeWithQadeer?logo=twitter&style=for-the-badge" alt="CodeWithQadeer" /></a>  
+</p>  
+
+- 🔭 I’m currently working on **AI-based object detection and web applications.**  
+
+- 🌱 I’m currently learning **PyTorch, Python, and full-stack web development.**  
+
+- 👨‍💻 Proof of work: [Portfolio✨]()  
+
+- 📫 How to reach me: **codewithqadeer@gmail.com**  
+
+<h3 align="left">Connect with me:</h3>  
+<p align="left">  
+<a href="https://x.com/SyedAbdQadeer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="CodeWithQadeer" height="30" width="40" /></a>  
+<a href="https://www.linkedin.com/in/syed-abdul-qadeer-4a2896313/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Qadeer" height="30" width="40" /></a>  
+</p>  
+
+<h3 align="left">Languages and Tools:</h3>  
+<p align="left">   
+<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>  
+<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>   
+<a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a>  
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>  
+<a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a>  
+<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>  
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>  
+<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>  
+<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>  
+<a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a>  
+<a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>  
+<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a>  
+<a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a>  
+<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>  
+<a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a>   
+</p>  
+
+
