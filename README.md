@@ -4,7 +4,7 @@
 ---
 
 <div align="center">
-  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Developer at work" width="60%" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Developer at work" width="70%" />
 </div>
 
 ---
