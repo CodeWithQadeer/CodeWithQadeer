@@ -1,4 +1,4 @@
-<h1 align="center">Hola! I'm Qadeer 👨‍💻 <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="35px"></h1>  
+<h1 align="center">Hi! I'm 'Abdul Qadeer 👨‍💻 <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="35px"></h1>  
 <h3 align="center">🚀 Full-Stack Web Developer from India | Crafting scalable apps & modern web experiences</h3>  
 
 ---
